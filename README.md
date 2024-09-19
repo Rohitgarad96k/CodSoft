@@ -2,7 +2,7 @@ CODSOFT - Python Programming Internship
 
 Welcome to the CODSOFT repository! This repository contains the tasks completed as part of the Python Programming Internship offered by CodSoft.
 
-About the Internship
+About the Internship 
 This internship focuses on building Python programming skills through various tasks. The goal is to complete at least three tasks successfully to qualify for the internship completion certificate.
 
 Table of Contents 
